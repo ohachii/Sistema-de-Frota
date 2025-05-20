@@ -39,8 +39,14 @@ Cada veículo está obrigatoriamente associado a um proprietário (pessoa físic
 ## 🔧 Tecnologias Utilizadas
 
 - Java 17+
-- VSCodium ou VS Code com extensão RedHat Java
+- VSCodium com extensão RedHat Java
 - Git para versionamento
 
-## 📁 Estrutura do Projeto
 
+## 🧠 Conceitos Aplicados
+
+- Programação Orientada a Objetos (POO)
+- Encapsulamento
+- Herança e Polimorfismo
+- Composição e Agregação
+- Validação de dados no construtor
